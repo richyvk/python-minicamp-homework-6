@@ -1,0 +1,33 @@
+#red {
+	background-color: red;
+	height: 100px;
+	padding-top: 50px;
+}
+
+#black {
+	background-color: black;
+	height: 50px;
+	margin: 0px 50px 0px 50px;
+	
+}
+
+#blue {
+	background-color: blue;
+	height: 700px;
+	margin: 0px auto 0px auto;
+	width: 80%;
+}
+
+.yellow {
+	background-color: yellow;
+	height: 100px;
+	width: 10%;
+	float: left;
+	margin: 100px 0px 0px 17%;
+}
+
+#green {
+	clear: both;
+	background-color: green;
+	height: 100px;
+}
