@@ -1,0 +1,43 @@
+#red {
+	background-color: red;
+	display: flex;
+	height: 150px;
+}
+
+#black {
+	background-color: black;
+	height: 50px;
+	margin: auto;
+	width: 90%;
+}
+
+#blue {
+	background-color: blue;
+	display: flex;
+	width: 80%;
+	margin: 0px auto 0px auto;
+	height: 600px;
+	justify-content: space-between;
+}
+
+.yellow {
+	background-color: yellow;
+	height: 100px;
+	margin-top: 50px;
+	width: 100px;
+
+}
+
+.yellow:first-child {
+	margin-left: 25%;
+}
+
+.yellow:last-child {
+	margin-right: 25%;
+}
+
+#green {
+	background-color: green;
+	height: 100px;
+}
+
